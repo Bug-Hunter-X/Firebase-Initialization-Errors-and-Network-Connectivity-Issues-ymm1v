@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the app's configuration is incorrect or if there's a network issue.  For example, if the `firebaseConfig` object in your initialization is missing required fields or contains incorrect values, you'll encounter errors during initialization.  Network problems can also lead to errors when trying to connect to Firebase services.
